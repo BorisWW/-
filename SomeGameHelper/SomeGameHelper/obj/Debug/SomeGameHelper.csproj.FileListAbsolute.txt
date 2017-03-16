@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\bin\Debug\SomeGameHelper.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\bin\Debug\SomeGameHelper.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\bin\Debug\SomeGameHelper.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.fHelping.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.fBlJack.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.fDurak.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\SomeGameHelper\SomeGameHelper\obj\Debug\SomeGameHelper.fInfo.resources
